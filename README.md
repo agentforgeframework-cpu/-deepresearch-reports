@@ -8,9 +8,9 @@ GitHub URL:
 Raw URL:
 'https://raw.githubusercontent.com/agentforgeframework-cpu/-deepresearch-reports/refs/heads/main/README.md'
 
-# Deep Dive study reports
+# Deep Research study reports
 
-This folder contains *.md summaries of Deep Research repoerts and subsequent review.
+This folder contains *.md summaries of Deep Research reports and subsequent review.
 
 # License
 
