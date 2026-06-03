@@ -1,10 +1,20 @@
 # DR-001 — Code is Design and Data is Desgin
+Repository-relative path: `-deepresearch-reports/DR-001_Code_Is_Design_and_Data_Is_Design.md`
+
+GitHub URL:
+`https://github.com/agentforgeframework-cpu/-deepresearch-reports/blob/main/DR-001_Code_Is_Design_and_Data_Is_Design.md`
+
+Raw URL:
+`https://raw.githubusercontent.com/agentforgeframework-cpu/-deepresearch-reports/refs/heads/main/DR-001_Code_Is_Design_and_Data_Is_Design.md`
+
+Google Drive PDF URL (human-readable):
+`https://drive.google.com/file/d/10Gzg-gg_uh4ns7H6GbvpNEX3j5ZQAeGt/view`
+
+---
 
 > Deep Research Report
 > Machine-readable Markdown export generated from the final PDF version.
 
-
----
 
 ## Page 1
 
@@ -359,3 +369,9 @@ operational adaptation.
 Contact 
 Paul D. McDonald 
 https://www.linkedin.com/in/mcdonaldpaul/
+
+# License
+
+Paul McDonald Open Use License (MIT-style)
+
+Copyright (c) 2026 Paul McDonald
