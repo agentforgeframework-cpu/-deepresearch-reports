@@ -1,12 +1,12 @@
 # DR-002 — AI Runtime Variance Across Platforms
 
-Repository-relative path: `-deepresearch-reports/DR-001_Code_Is_Design_and_Data_Is_Design.md`
+Repository-relative path: `-deepresearch-reports/DR-002_AI_Runtime_Variance_Across_Platforms.md`
 
 GitHub URL:
-`https://github.com/agentforgeframework-cpu/-deepresearch-reports/blob/main/DR-001_Code_Is_Design_and_Data_Is_Design.md`
+`https://github.com/agentforgeframework-cpu/-deepresearch-reports/blob/main/DR-002_AI_Runtime_Variance_Across_Platforms.md`
 
 Raw URL:
-`https://raw.githubusercontent.com/agentforgeframework-cpu/-deepresearch-reports/refs/heads/main/DR-001_Code_Is_Design_and_Data_Is_Design.md`
+`https://raw.githubusercontent.com/agentforgeframework-cpu/-deepresearch-reports/refs/heads/main/DR-002_AI_Runtime_Variance_Across_Platforms.md`
 
 Google Drive PDF URL (human-readable):
 `https://drive.google.com/file/d/1RShsF0yoauPjkNZ9aad45qrgJR3GupXW/view`
