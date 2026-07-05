@@ -2,7 +2,7 @@
 
 **Subtitle:** Empirical evidence from a three-week, six-platform AI file-retrieval verification project, mapped to the DR-006 "Trustworthy AI Systems" framework
 
-**Author:** Paul [surname], maintainer, AgentForge Framework (AF-002)
+**Author:** Paul McDonald, maintainer, AgentForge Framework (AF-002)
 **Compiled with:** Claude (Anthropic), which also served as one of the six platforms under test
 **Date:** July 4, 2026
 **Companion to:** DR-006, "Trustworthy AI Systems" (framework study)
